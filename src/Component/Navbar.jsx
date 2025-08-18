@@ -56,7 +56,7 @@ export default function Navbar() {
                 className={`
                 fixed left-0 w-full z-40 flex items-center justify-between px-6 py-4 transition-all duration-300
                 ${open ? 'top-5' : 'top-0'}
-                ${scrolled ? 'bg-white text-black shadow-md' : 'md:bg-transparent md:text-white bg-white bg-transparent text-black'}
+                ${scrolled ? 'bg-white text-black shadow-md' : 'md:bg-transparent md:text-white bg-transparent text-black'}
             `}
             >
 
