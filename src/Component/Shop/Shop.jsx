@@ -1,6 +1,6 @@
 import image1 from '../../assets/Shop/image1.jpg';
-import item1 from '../../assets/Shop/item1.png'
-import item2 from '../../assets/Shop/item2.png'
+import item1 from '../../assets/Shop/Item1.png'
+import item2 from '../../assets/Shop/Item2.png'
 import { Star } from "lucide-react";
 import { BaggageClaim } from 'lucide-react';
 
