@@ -16,6 +16,7 @@ import Swiper_card from '../Swiper_card';
 export default function Home() {
   return (
     <>
+    <Navbar/>
       <Carousel/>
       <BrandSection />
       <div className="grid md:grid-cols-3 md:grid-rows-2 md:gap-6 md:p-6 p-4 grid-cols-1 gap-3  h-100 md:h-150 md:grid md:grid-col-1 md:gap-12 sm:grid sm:grid-col-1 sm:gap-12 ">

@@ -28,19 +28,6 @@ export default function Navbar() {
         window.addEventListener('scroll', handleScroll);
         return () => window.removeEventListener('scroll', handleScroll);
     }, []);
-    //////////////////////////////
-    // useEffect(() => {
-    //     const handleScroll = () => {
-    //         if (window.scrollY > 1) {
-    //             setScrolledMobile(true);
-    //         } else {
-    //             setScrolledMobile(false);
-    //         }
-    //     };
-
-    //     window.addEventListener('scroll', handleScroll);
-    //     return () => window.removeEventListener('scroll', handleScroll);
-    // }, []);
 
     return (
         <div className="Navbar relative z-50">

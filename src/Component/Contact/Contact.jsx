@@ -2,10 +2,12 @@ import React from "react";
 import { Play } from "lucide-react"; // or any other icon
 import image from "../../assets/Contact/contact_header.jpg"
 import Contact_form from  "../Contact/Contact_form"
+import NavbarShop from "../Shop/NavShop";
 
 const ContactSection = () => {
     return (
         <>
+        <NavbarShop/>
         <div className="relative w-full flex items-center justify-center text-center px-6 md:px-12 lg:px-20">
             <div className="relative  w-full h-[80vh] flex items-center justify-center text-center mt-24 mb-10">
                 {/* Background Image */}

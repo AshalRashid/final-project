@@ -17,6 +17,7 @@ import Cardimg10 from '../../assets/Shop/Cardimage10.png'
 import Cardimg11 from '../../assets/Shop/Cardimage11.png'
 import Cardimg12 from '../../assets/Shop/Cardimage12.png'
 import Cardimg13 from '../../assets/Shop/Cardimage13.png'
+import NavbarShop from './NavShop';
 
 
 
@@ -168,6 +169,8 @@ export default function Shop() {
 
 
     return (
+<>
+    <NavbarShop/>
         <div className="w-full bg-white mt-25 text-black">
             {/* Top image */}
             <div className="relative w-full h-54 md:h-56 px-30  rounded-2xl overflow-hidden">
@@ -260,5 +263,6 @@ export default function Shop() {
             </section>
 
         </div>
+ </>
     )
 }
