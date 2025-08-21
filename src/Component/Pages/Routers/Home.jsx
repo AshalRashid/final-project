@@ -1,17 +1,17 @@
-import Navbar from '../Navbar';
-import BrandSection from '../Brand';
-import Card from '../Card';
+import Navbar from '../../Navbar';
+import BrandSection from '../../Brand';
+import Card from '../../Card';
 import card1 from '../../assets/Images/Card1.jpg';
 import card2 from '../../assets/Images/Card2.jpg';
 import card3 from '../../assets/Images/Card3.jpg';
 import card4 from '../../assets/Images/Card4.jpg';
-import HeroSection from '../HerSection';
-import ProductSection from '../ProductCard';
-import HeroSection2 from '../HeroSection2';
-import Carousel from '../Carousel';
-import HappyClient from '../HappyCLient';
-import Footer from '../Fotter';
-import Swiper_card from '../Swiper_card';
+import HeroSection from '../../HerSection';
+import ProductSection from '../../ProductCard';
+import HeroSection2 from '../../HeroSection2';
+import Carousel from '../../Carousel';
+import HappyClient from '../../HappyCLient';
+import Footer from '../../Fotter';
+import Swiper_card from '../../Swiper_card';
 
 export default function Home() {
   return (

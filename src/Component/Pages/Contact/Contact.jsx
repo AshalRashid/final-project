@@ -1,7 +1,7 @@
 import React from "react";
 import { Play } from "lucide-react"; // or any other icon
-import image from "../../assets/Contact/contact_header.jpg"
-import Contact_form from  "../Contact/Contact_form"
+import image from "../../../assets/Contact/contact_header.jpg"
+import Contact_form from  "./Contact_form"
 import NavbarShop from "../Shop/NavShop";
 
 const ContactSection = () => {
