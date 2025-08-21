@@ -1,22 +1,22 @@
-import image1 from '../../assets/Shop/image1.jpg';
-import item1 from '../../assets/Shop/Item1.png'
-import item2 from '../../assets/Shop/Item2.png'
+import image1 from '../../../assets/Shop/image1.jpg';
+import item1 from '../../../assets/Shop/Item1.png'
+import item2 from '../../../assets/Shop/Item2.png'
 import { Star } from "lucide-react";
 import { BaggageClaim } from 'lucide-react';
 
-import Cardimg1 from '../../assets/Shop/Cardimage1.png'
-import Cardimg2 from '../../assets/Shop/Cardimage2.png'
-import Cardimg3 from '../../assets/Shop/Cardimage3.png'
-import Cardimg4 from '../../assets/Shop/Cardimage4.png'
-import Cardimg5 from '../../assets/Shop/Cardimage5.png'
-import Cardimg6 from '../../assets/Shop/Cardimage6.png'
-import Cardimg7 from '../../assets/Shop/Cardimage7.png'
-import Cardimg8 from '../../assets/Shop/Cardimage8.png'
-import Cardimg9 from '../../assets/Shop/Cardimage9.png'
-import Cardimg10 from '../../assets/Shop/Cardimage10.png'
-import Cardimg11 from '../../assets/Shop/Cardimage11.png'
-import Cardimg12 from '../../assets/Shop/Cardimage12.png'
-import Cardimg13 from '../../assets/Shop/Cardimage13.png'
+import Cardimg1 from '../../../assets/Shop/Cardimage1.png'
+import Cardimg2 from '../../../assets/Shop/Cardimage2.png'
+import Cardimg3 from '../../../assets/Shop/Cardimage3.png'
+import Cardimg4 from '../../../assets/Shop/Cardimage4.png'
+import Cardimg5 from '../../../assets/Shop/Cardimage5.png'
+import Cardimg6 from '../../../assets/Shop/Cardimage6.png'
+import Cardimg7 from '../../../assets/Shop/Cardimage7.png'
+import Cardimg8 from '../../../assets/Shop/Cardimage8.png'
+import Cardimg9 from '../../../assets/Shop/Cardimage9.png'
+import Cardimg10 from '../../../assets/Shop/Cardimage10.png'
+import Cardimg11 from '../../../assets/Shop/Cardimage11.png'
+import Cardimg12 from '../../../assets/Shop/Cardimage12.png'
+import Cardimg13 from '../../../assets/Shop/Cardimage13.png'
 import NavbarShop from './NavShop';
 
 
