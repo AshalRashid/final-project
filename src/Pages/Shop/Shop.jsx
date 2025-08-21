@@ -173,7 +173,7 @@ export default function Shop() {
     <NavbarShop/>
         <div className="w-full bg-white mt-25 text-black">
             {/* Top image */}
-            <div className="relative w-full h-54 md:h-56 px-30  rounded-2xl overflow-hidden">
+            <div className="relative  w-full h-54 md:h-56  md:px-30  rounded-2xl overflow-hidden">
                 <img
                     src={image1}
                     alt="Top Banner"
