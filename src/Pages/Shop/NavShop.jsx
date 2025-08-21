@@ -87,7 +87,7 @@ export default function NavbarShop() {
                 {/* Right Icons */}
                 <div className="flex items-center gap-6 text-2xl">
                     {/* Search (button) */}
-                    <button className={`${scrolled ? 'lg:text-black' : 'lg:text-black text-black'} md:text-black`}>
+                    <button className={`${scrolled ? 'text-black' : 'md:text-black text-black'} md:text-black`}>
                         <CiSearch />
                     </button>
 

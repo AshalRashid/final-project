@@ -187,7 +187,7 @@ export default function Shop() {
 
 
             {/* Categories */}
-            <div className="flex flex-wrap justify-center gap-6 mt-8">
+            <div className="flex  flex-wrap justify-center md:gap-6 gap-18  mt-8">
                 {categories.map((cat, index) => (
                     <div
                         key={index}
@@ -218,7 +218,7 @@ export default function Shop() {
             {/* All Product Card */}
             <section className="px-10 py-8">
 
-                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mt-4">
+                <div className="grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-4 gap-6 mt-4">
                     {products.map((product) => (
                         <div
                             key={product.id}
